@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: goldenrod;
+}
+
+.header{
+    background-color: black;
+    padding: 2%;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.footer{
+height: 50px;
+background-color: rgb(137, 35, 35);
+color: white;
+padding-top: 2%;
+
+}
+.footer p{
+    margin: 0%;
+}
